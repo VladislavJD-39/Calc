@@ -25,3 +25,4 @@ public class Calculator {
     //BinaryOperator<Integer> devide = (x, y) -> x / y;
     Consumer<Integer> print = x -> System.out.println("Результат расчета калькулятора: " + x);
 }
+
